@@ -131,5 +131,4 @@ class MainActivity : AppCompatActivity() {
 
         }
     }
-    //P.S. shevecade yvelaferi gametvala magram vici rom jer kidev aris darchenili bagebi (operaciebis umetesoba wesit sworad unda mushaobdes mainc)
 }
